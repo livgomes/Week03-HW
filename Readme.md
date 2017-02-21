@@ -34,3 +34,7 @@ To make my Wenpage live, I first had to inform GitHub that I wanted to turn my r
 ### 4. Issues
 
 This week was a great week, I really enjoyed making my webpage and I did not come accross too many difficulties following the assignment this week, however the it did take me a few tries determining how to make my webpage live. This was due to the fact that I had forgotten to add the backslash after adding my project name to the URL. Another issue I came across was remembering how to add my repository to GitHub, however this was also very quickly solved.
+
+### Future Work
+
+This is going to be extremly helpful for my future work in this class, as I now feel like I have some of the very important basics that are necessary to working with HTML and coding. I am so excited to continue on with this class. Looking forward to making more Webpages!!
